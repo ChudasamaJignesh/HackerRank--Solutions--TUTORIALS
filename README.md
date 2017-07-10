@@ -83,12 +83,12 @@
 |  1  | [Quartiles](https://www.hackerrank.com/challenges/s10-quartiles)                                                           | Easy |   30   | [Solution.java]()                                       |
 |  1  | [Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range)                                       | Easy |   30   | [Solution.java]()                           |
 |  1  | [Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation)                                         | Easy |   30   | [Solution.java]()                            |
-|  2  | [Basic Probability](https://www.hackerrank.com/challenges/s10-mcq-1)                                                       | Easy |   10   | [Solution.java]()                                   |
-|  2  | [More Dice](https://www.hackerrank.com/challenges/s10-mcq-2)                                                               | Easy |   10   | [Solution.java]()                                           |
-|  2  | [Compound Event Probability](https://www.hackerrank.com/challenges/s10-mcq-3)                                              | Easy |   10   | [Solution.java]()                        |
-|  3  | [Conditional Probability](https://www.hackerrank.com/challenges/s10-mcq-4)                                                 | Easy |   10   | [Solution.java]()                             |
-|  3  | [Cards of the Same Suit](https://www.hackerrank.com/challenges/s10-mcq-5)                                                  | Easy |   10   | [Solution.java]()                        |
-|  3  | [Drawing Marbles](https://www.hackerrank.com/challenges/s10-mcq-6)                                                         | Easy |   10   | [Solution.java](])                                     |
+|  2  | [Basic Probability](https://www.hackerrank.com/challenges/s10-mcq-1)                                                       | Easy |   10   | [Solution.txt]()                                   |
+|  2  | [More Dice](https://www.hackerrank.com/challenges/s10-mcq-2)                                                               | Easy |   10   | [Solution.txt]()                                           |
+|  2  | [Compound Event Probability](https://www.hackerrank.com/challenges/s10-mcq-3)                                              | Easy |   10   | [Solution.txt]()                        |
+|  3  | [Conditional Probability](https://www.hackerrank.com/challenges/s10-mcq-4)                                                 | Easy |   10   | [Solution.txt]()                             |
+|  3  | [Cards of the Same Suit](https://www.hackerrank.com/challenges/s10-mcq-5)                                                  | Easy |   10   | [Solution.txt]()                        |
+|  3  | [Drawing Marbles](https://www.hackerrank.com/challenges/s10-mcq-6)                                                         | Easy |   10   | [Solution.txt](])                                     |
 |  4  | [Binomial Distribution I](https://www.hackerrank.com/challenges/s10-binomial-distribution-1)                               | Easy |   30   | [Solution.java]()                     |
 |  4  | [Binomial Distribution II](https://www.hackerrank.com/challenges/s10-binomial-distribution-2)                              | Easy |   30   | [Solution.java]()                    |
 |  4  | [Geometric Distribution I](https://www.hackerrank.com/challenges/s10-geometric-distribution-1)                             | Easy |   30   | [Solution.java]()                    |
@@ -103,7 +103,7 @@
 |  7  | [Pearson Correlation Coefficient I](https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient)             | Easy |   30   | [Solution.java]()         |
 |  7  | [Spearman's Rank Correlation Coefficient](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient) | Easy |   30   | [Solution.java]() |
 |  8  | [Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line)                     | Easy |   30   | [Solution.java]()              |
-|  8  | [Pearson Correlation Coefficient II](https://www.hackerrank.com/challenges/s10-mcq-7)                                      | Easy |   30   | [Solution,java]()              |
+|  8  | [Pearson Correlation Coefficient II](https://www.hackerrank.com/challenges/s10-mcq-7)                                      | Easy |   30   | [Solution,txt]()              |
 |  9  | [Multiple Linear Regression](https://www.hackerrank.com/challenges/s10-multiple-linear-regression)                         | Easy |   30   | [Solution.java]()                  |
 
 
