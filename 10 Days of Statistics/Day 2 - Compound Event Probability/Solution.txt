@@ -1,0 +1,24 @@
+/*  
+ *      DeveloperName(): Jignesh Chudasama
+ *      GithubName(): https://github.com/Jignesh-81726
+ */
+ 
+Answer: 17/42
+
+probability of giving a red ball
+
+Urn X has a 4/7 
+Urn Y has a 5/9 
+Urn Z has a 1/2 
+
+probability of giving a black ball
+
+Urn X has a 3/7 
+Urn Y has a 4/9 
+Urn Z has a 1/2 
+
+P(2 red, 1 black) = P(Red Red Black) + P(Red Black Red) + P(Black Red Red)
+                  = (4/7)(5/9)(1/2) + (4/7)(4/9)(1/2) + (3/7)(5/9)(1/2)
+                  = 20/126 + 16/126 + 15/126
+                  = 51/126
+                  = 17/42
