@@ -1,12 +1,11 @@
-# HackerRank--Solutions--Tutorials
+
 <p align="center">
-<img height=85 src="https://github.com/Jignesh-81726/HackerRank--Solutions--Tutorials/blob/master/HackerRank-Logo.png">
-    <br> Solutions for  / Tutorials > ... 
+<img height=85 src="https://github.com/Jignesh-81726/HackerRank--Solutions--Tutorials/blob/master/HackerRank-Logo.png"><br>
 </p>
 
 
-| [30 Days of Code](#30-days-of-code)  | [Cracking the Coding Interview](#cracking-the-coding-interview) |  [10 Days of Statistics](#10-days-of-statistics) |
-|------------------------------|----------------------------------------------------|-----------------------------------|
+| Dashboard >| Tutorials >| * [30 Days of Code](#30-days-of-code)  | * [Cracking the Coding Interview](#cracking-the-coding-interview) |  * [10 Days of Statistics](#10-days-of-statistics) |
+|----------------|----------------|---------------------|-------------------------------|-----------------------------------|
 
 
 
