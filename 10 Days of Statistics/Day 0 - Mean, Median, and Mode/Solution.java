@@ -2,57 +2,69 @@
  *      DeveloperName(): Jignesh Chudasama
  *      GithubName(): https://github.com/Jignesh-81726
  */
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
 
-import java.util.Scanner;
-import java.util.Arrays;
-import java.util.HashMap;
-
-// Time Complexity: O(n log n) due to sorting
 public class Solution {
+
     public static void main(String[] args) {
-        /* Save input */
-        Scanner scan = new Scanner(System.in);
-        int size = scan.nextInt();
-        int [] array = new int[size];
-        for (int i = 0; i < size; i++) {
-            array[i] = scan.nextInt();
+        Scanner s = new Scanner(System.in);
+        int size = s.nextInt();
+        int [] a = new int[size]; 
+        for(int i = 0;i < size;i++) {
+            a[i] = s.nextInt();
         }
-        scan.close();
-        
-        /* Sort array: O(n log n) runtime */
-        Arrays.sort(array);
-        
-        /* Calculate Mean */
-        int total = 0;
-        for (int num : array) {
-            total += num;
+        System.out.println(getMean(a));
+        System.out.println(getMedian(a));
+        System.out.println(getMode(a));
+    }
+    
+    private static double getMean(int[] a) {
+        double mean = 0;
+        int sum = 0;
+        int size = a.length;
+        for(int i : a) {
+            sum += i;
         }
-        double mean = (double) total / size;
-        
-        /* Calculate Median */
-        double median;
-        if (size % 2 == 0) {
-            median = (array[size / 2 - 1] + array[size / 2]) / 2.0;
-        } else {
-            median = array[size / 2];
+        mean = (double) sum/size;
+        return mean;
+    }
+    
+    private static double getMedian(int[] a) {
+        double median = 0;
+        int size = a.length;
+        int [] copy = a.clone();
+        Arrays.sort(copy);
+        if(size % 2 == 0)
+            median = (double) (copy[size/2 - 1] + copy[size/2]) / 2;
+        else {
+            median = (double) copy[(size-1)/2];
         }
-        
-        /* Calculate Mode - if there's a tie, choose the smaller number */
-        HashMap<Integer, Integer> map = new HashMap<>();
-        int maxOccurrences = 0;
-        int mode = Integer.MAX_VALUE;
-        for (int num : array) {
-            map.merge(num, 1, Integer::sum);
-            int occurrences = map.get(num);
-            if (occurrences > maxOccurrences || (occurrences == maxOccurrences && num < mode)) {
-                maxOccurrences = occurrences;
-                mode = num;
+        return median;
+    }
+    
+    private static int getMode(int[] a) {
+        int mode = 0;
+        int size = a.length;
+        int [] copy = a.clone();
+        Arrays.sort(copy);
+        int count = 0, max = 0;
+        int current = copy[0];
+        for(int i = 0;i < size;i++) {
+            if (copy[i] == current) {
+                count++;
+            } else {
+                count = 1;
+                current = copy[i];
+            }
+            if (count > max) {
+                max = count;
+                mode = copy[i];
             }
         }
-
-        /* Print results */
-        System.out.println(mean);
-        System.out.println(median);
-        System.out.println(mode);
+        return mode;
     }
 }
