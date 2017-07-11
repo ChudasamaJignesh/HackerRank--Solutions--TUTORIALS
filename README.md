@@ -1,12 +1,12 @@
 
 <p align="center">
-<img height=85 src="https://github.com/Jignesh-81726/HackerRank--Solutions--Tutorials/blob/master/HackerRank-Logo.png"><br>
+<img height=85 src="https://github.com/Jignesh-81726/HackerRank--Solutions--Tutorials/blob/master/Images/HackerRank-Logo.png"><br>
 </p>
 
 
-| Dashboard >| Tutorials >| ** [30 Days of Code](#30-days-of-code)  | ** [Cracking the Coding Interview](#cracking-the-coding-interview) |  ** [10 Days of Statistics](#10-days-of-statistics) | License
-|----------------|----------------|---------------------|-------------------------------|---------------------------|--------------|
-
+| Dashboard >|<img src="https://github.com/Jignesh-81726/HackerRank--Solutions--Tutorials/blob/master/Images/30-days-of-code.png"> |<img src="https://github.com/Jignesh-81726/HackerRank--Solutions--Tutorials/blob/master/Images/cracking-the-coding-interview.png">|<img src="https://github.com/Jignesh-81726/HackerRank--Solutions--Tutorials/blob/master/Images/10-days-of-statistics.png">|  .  |
+|------------|-----------------------------------------|-------------------------------|---------------------------|--------------|
+| Tutorials >| ** [30 Days of Code](#30-days-of-code)  | ** [Cracking the Coding Interview](#cracking-the-coding-interview) |  ** [10 Days of Statistics](#10-days-of-statistics) | License
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![label](https://img.shields.io/github/issues-raw/badges/shields/website.svg)]()
