@@ -5,7 +5,7 @@
 </p>
 
 
-| Dashboard >|| Tutorials >|[Cracking the Coding Interview](#cracking-the-coding-interview) |<img src="https://github.com/Jignesh-81726/HackerRank--Solutions--Tutorials/blob/master/Images/cracking-the-coding-interview.png"> |
+| Dashboard >| Tutorials >|[Cracking the Coding Interview](#cracking-the-coding-interview) |<img src="https://github.com/Jignesh-81726/HackerRank--Solutions--Tutorials/blob/master/Images/cracking-the-coding-interview.png"> |
 |------------|-----------------------------------------|-------------------------------|---------------------------|
 
 
