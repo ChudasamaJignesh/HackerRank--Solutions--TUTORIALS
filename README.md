@@ -4,10 +4,22 @@
 </p>
 
 
-| Dashboard >| Tutorials >| ** [30 Days of Code](#30-days-of-code)  | ** [Cracking the Coding Interview](#cracking-the-coding-interview) |  ** [10 Days of Statistics](#10-days-of-statistics) |
-|----------------|----------------|---------------------|-------------------------------|-----------------------------------|
+| Dashboard >| Tutorials >| ** [30 Days of Code](#30-days-of-code)  | ** [Cracking the Coding Interview](#cracking-the-coding-interview) |  ** [10 Days of Statistics](#10-days-of-statistics) | LICENCE
+|----------------|----------------|---------------------|-------------------------------|---------------------------|--------------|
 
 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![label](https://img.shields.io/github/issues-raw/badges/shields/website.svg)]()
+[![PyPI](https://img.shields.io/pypi/status/Django.svg)]()  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+
+## Licence
+
+This project is licensed under the MIT License - see the [LICENSE](../master/LICENSE) file for details<br />
+
+Happy Coding..
 
 # 30 Days of Code
 | Day |                                                Challenge                                                | Difficulty | Points |                                                                                   Solution                                                                                  |
