@@ -1,4 +1,4 @@
-# Cracking the Coding Interview 
+
 
 <p align="center">
 <img height=85 src="https://github.com/Jignesh-81726/HackerRank--Solutions--Tutorials/blob/master/Images/HackerRank-Logo.png"><br>
