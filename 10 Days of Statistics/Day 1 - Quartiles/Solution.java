@@ -20,7 +20,6 @@ public class Solution {
         System.out.println(q3);
     }
 
-    /* Creates array from input */
     private static int [] getValues() {
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
@@ -31,12 +30,10 @@ public class Solution {
         scan.close();
         return array;
     }
-    
-    /* Treats elements from "start" to "end" (inclusive) as an array and calculates its median */
     private static int findMedian(int [] array, int start, int end) {
-        if ((end - start) % 2 == 0) { // odd number of elements
+        if ((end - start) % 2 == 0) { 
             return (array[(end + start) / 2]);
-        } else { // even number of elements
+        } else { 
             int value1 = array[(end + start) / 2];
             int value2 = array[(end + start) / 2 + 1];
             return Math.round((value1 + value2) / 2); 
